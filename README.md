@@ -1,5 +1,5 @@
 ![Header](./github-header-image.png)
-<h3 align="left">Sempre busquei conhecer a razão de um fato através de questionamentos que permitam utilizar a lógica  para desvendar problemas e encontrar soluções. Foi assim que encontrei-me no universo do desenvolvimento, inovação e empreendedorismo. Atualmente estou no quarto semestre do curso de Engenharia de Software na  Faculdade de Informática e Administração Paulista (Fiap) em São Paulo.</h3>
+<h3 align="left">Sempre busquei conhecer a razão de um fato através de questionamentos que permitam utilizar a lógica  para desvendar problemas e encontrar soluções. Foi assim que me encontrei no universo do desenvolvimento, inovação e empreendedorismo. Atualmente estou no quarto semestre do curso de Engenharia de Software na  Faculdade de Informática e Administração Paulista (Fiap) em São Paulo.</h3>
 
 ###
 
